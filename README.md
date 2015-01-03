@@ -1,7 +1,7 @@
 Handling Touch in Android
 ===========================
 
-![Alt texthttps://github.com/sreejithbnaick/android-handling-touchevent/blob/master/slides/slide1.jpg?raw=true "")
+![Alt+text https://github.com/sreejithbnaick/android-handling-touchevent/blob/master/slides/slide1.jpg?raw=true "")
 
 ![Alt texthttps://github.com/sreejithbnaick/android-handling-touchevent/blob/master/slides/slide2.jpg?raw=true "")
 
